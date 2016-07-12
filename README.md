@@ -22,4 +22,4 @@ of Prehistory. The competitiveness of the game is ensured as the player goes up 
 ceaselessly engages the player by tossing unpredictabilities at the tribe whenever there is a
 period of safety. As the tribe evolves and the game advances, the tribe gains a skill set the
 matchmaking app uses this info to hunt down other tribes led by external players with a compatible skill set. Then these tribes can go against each other or collaborate to go against
-some other tribe, basically empowering the game to go into multiplayer mode.
+some other tribe.
